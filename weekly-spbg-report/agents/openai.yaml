@@ -1,0 +1,3 @@
+﻿display_name: "Weekly SPBG Report"
+short_description: "Generate weekly team reports from the internal tracking system and add them to SharePoint Excel"
+default_prompt: "Generate the weekly report for my team"
